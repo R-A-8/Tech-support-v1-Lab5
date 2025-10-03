@@ -48,5 +48,11 @@ Part II
 
 32.You create a new method with an assignment to print all the keys. (System.out.println("All keys in the map:" + contacts.keySet()); ).
 
+34.They are both generic classes, which means they need parameters. The ArrayList, like the map, can store entries, but as objects, unlike the map who can store pairs of objects.
 
+35.
+
+36. Nothing happens.
+
+37.
 
