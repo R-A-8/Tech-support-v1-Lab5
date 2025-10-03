@@ -33,3 +33,20 @@ PART 1
 1. The complete version has a wide range of responses whereas the v1 only has one answer.
 
 
+Part II
+24. A HashMap is a class from the java.util package that uses the map(which is a collection of keys/values) to store values in sets of keys.
+
+26. You use the get method.
+
+28. It updates the value of the key.
+
+29. It doesn't change anything, both keys will simply have the same value(ex: 2 people with the same phone number).
+
+30. You use the get method.
+
+31. The return is null.
+
+32.You create a new method with an assignment to print all the keys. (System.out.println("All keys in the map:" + contacts.keySet()); ).
+
+
+
