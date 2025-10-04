@@ -48,9 +48,9 @@ Part II
 
 32.You create a new method with an assignment to print all the keys. (System.out.println("All keys in the map:" + contacts.keySet()); ).
 
-34.They are both generic classes, which means they need parameters. The ArrayList, like the map, can store entries, but as objects, unlike the map who can store pairs of objects.
+34. They are both really similar, the only difference is that a List keeps the elements in order, you can access them with an index and can have the same element multiple times. The set doesn't have a specific order and makes sure you cannot enter the same element more than once.
 
-35.
+35. With the ArrayList, the words will be returned based on their index(so the first element entered is at index 0, the second is at 1, etc), while with the HashSet, there is no order, so the element may be returned in a for-each loop in a different order than the one they were entered in.
 
 36. Nothing happens.
 
